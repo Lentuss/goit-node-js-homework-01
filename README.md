@@ -3,15 +3,21 @@ CLI for storing and using the contact book
 AVAILABLE ACTIONS
 
 -a list - to get full list of contacts
+
 -a get - to get contact by id
+
 -a add - to add new contact
+
 -a remove - to remove contact by id
 
 AVAILABLE ARGUMENTS
 
 -i - id
+
 -n - name
+
 -e - email
+
 -p - phone
 
 USAGE
