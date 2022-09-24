@@ -21,8 +21,11 @@ yarn start -a [name of action] [required arguments]
 EXAMPLES
 
 yarn start -a list
+
 yarn start -a get -i 1
+
 yarn start -a add -n Anna -e anna@i.ua -p 7894516
+
 yarn start -a remove -i 10
 
 FINALLY
